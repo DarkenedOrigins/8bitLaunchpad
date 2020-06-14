@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri May 03 15:27:25 2019
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : launchpad
+Top-level Entity Name : launchpad
+Family : Cyclone IV E
+Total logic elements : 1,761
+    Total combinational functions : 1,611
+    Dedicated logic registers : 599
+Total registers : 599
+Total pins : 129
+Total virtual pins : 0
+Total memory bits : 2,621,440
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

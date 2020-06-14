@@ -1,0 +1,233 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -7.820
+TNS   : -6221.481
+
+Type  : Slow 1200mV 85C Model Setup 'audio_interface:audio_driver|flag1'
+Slack : -7.723
+TNS   : -2609.132
+
+Type  : Slow 1200mV 85C Model Setup 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : -1.439
+TNS   : -10.184
+
+Type  : Slow 1200mV 85C Model Setup 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -0.800
+TNS   : -1.882
+
+Type  : Slow 1200mV 85C Model Setup 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.108
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : 0.221
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'audio_interface:audio_driver|flag1'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -0.815
+TNS   : -3.260
+
+Type  : Slow 1200mV 85C Model Recovery 'CLOCK_50'
+Slack : 14.587
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : 1.043
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLOCK_50'
+Slack : 1.892
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'audio_interface:audio_driver|flag1'
+Slack : -2.693
+TNS   : -949.140
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : -1.285
+TNS   : -15.420
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.547
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.707
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -7.122
+TNS   : -5584.487
+
+Type  : Slow 1200mV 0C Model Setup 'audio_interface:audio_driver|flag1'
+Slack : -6.990
+TNS   : -2348.996
+
+Type  : Slow 1200mV 0C Model Setup 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : -1.224
+TNS   : -8.206
+
+Type  : Slow 1200mV 0C Model Setup 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -0.629
+TNS   : -1.424
+
+Type  : Slow 1200mV 0C Model Setup 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.944
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'audio_interface:audio_driver|flag1'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -0.764
+TNS   : -3.056
+
+Type  : Slow 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 15.125
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : 1.020
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 1.649
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'audio_interface:audio_driver|flag1'
+Slack : -2.649
+TNS   : -935.060
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : -1.285
+TNS   : -15.420
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -1.285
+TNS   : -5.140
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.555
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.711
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -3.526
+TNS   : -2738.587
+
+Type  : Fast 1200mV 0C Model Setup 'audio_interface:audio_driver|flag1'
+Slack : -3.495
+TNS   : -1122.070
+
+Type  : Fast 1200mV 0C Model Setup 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : -0.177
+TNS   : -0.708
+
+Type  : Fast 1200mV 0C Model Setup 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 15.652
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : 0.088
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'audio_interface:audio_driver|flag1'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -0.040
+TNS   : -0.160
+
+Type  : Fast 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 17.051
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : 0.537
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 0.896
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'audio_interface:audio_driver|flag1'
+Slack : -1.000
+TNS   : -388.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'visualizer:good_visu|frame_clk_rising_edge'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'audio_interface:audio_driver|i2c_counter[9]'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_clk_instance|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.781
+TNS   : 0.000
+
+------------------------------------------------------------
